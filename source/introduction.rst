@@ -49,6 +49,8 @@ in a naming script.
 Picard Cannot...
 ----------------
 
+...play music files or videos.
+
 ...automatically identify and remove all duplicate music files in your collection.
 
 ...provide metadata not already existing in the MusicBrainz database.
